@@ -1,1 +1,1 @@
-# dinamicInputs
+# Dinamic Inputs With JavaScript
